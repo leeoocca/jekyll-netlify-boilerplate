@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Figa questa boilerplate
+title: Hi! I'm a internet fellow.
 permalink: /
 section: home
 intro_paragraph: >
